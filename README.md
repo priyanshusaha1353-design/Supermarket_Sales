@@ -3,7 +3,7 @@
 ## Description
 <br>
 The objective can be broken down into the following details components:<br>
-1. Dashboard Creation: identify the KPIs, design an intuition and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to expore the data at various levels of granularity.<br>
+1. Dashboard Creation: identify the KPIs, design an intuition and visually appealing dashboard, add interactive visualizations and filtering    capabilities to allow users to expore the data at various levels of granularity.<br>
 2. Data Analysis: Provide valuable insights to business entities regarding the effectiveness ofc their sales strategies through visulation nad charts.<br>
 3. Sales Forcasting: Leverage historic data and apply time series analysis to generate sales forcasts for next 15 days.<br>
 4. Actionable Insights and Recommendation: End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction.
